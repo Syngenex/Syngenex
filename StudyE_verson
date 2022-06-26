@@ -1,1 +1,10 @@
-verson:1.37updateTitle:有新版本更新updateNotes:以下是版本更新的内容;
+{
+	"success": true,//返回信息成功
+	"info": "success",//返回结果说明信息
+	"data": {
+ 		"new_version": "1.37",//最新版本号
+ 		"min_version": "1.0",//最低版本号
+ 		"change_log": "1、修复若干bug 2、流畅性增加 3、多重新能提升",//更新日志
+ 		"url": "https://wwb.lanzouw.com/b030orisb"//安装包地址
+	}
+}
